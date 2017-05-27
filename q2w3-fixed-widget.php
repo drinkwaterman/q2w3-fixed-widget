@@ -231,7 +231,7 @@ class q2w3_fixed_widget { // Plugin class
 		
 		$d['refresh-interval'] = 1500;
 		
-		$d['screen-max-width'] = 0;
+		$d['screen-max-width'] = 292;
 		
 		$d['fix-widget-id'] = 'yes';
 		
@@ -243,7 +243,7 @@ class q2w3_fixed_widget { // Plugin class
 		
 		$d['widget_display_callback_priority'] = 30;
 		
-		$d['stop-id'] = '';
+		$d['stop-id'] = 'stophere';
 		
 		return $d;
 		
