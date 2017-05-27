@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Q2W3 Fixed Widget
+Plugin Name: Q2W3 Fixed Widget Modified Version
 Plugin URI: http://www.q2w3.ru/q2w3-fixed-widget-wordpress-plugin/
 Description: Fixes positioning of the selected widgets, when the page is scrolled down.
-Text Domain: q2w3-fixed-widget
-Author: Max Bond
+Text Domain: q2w3-fixed-widget-modified-version
+Author: Max Bond (Modified by Drinkwaterman)
 Version: 4.1
 Author URI: http://www.q2w3.ru/
 */
