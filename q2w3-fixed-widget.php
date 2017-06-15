@@ -231,7 +231,7 @@ class q2w3_fixed_widget { // Plugin class
 		
 		$d['refresh-interval'] = 1500;
 		
-		$d['screen-max-width'] = 292;
+		$d['screen-max-width'] = 975;
 		
 		$d['fix-widget-id'] = 'yes';
 		
